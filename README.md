@@ -1,3 +1,4 @@
+![input statistics](img/ExampleInputStatistics.png)
 # eeg-ddsp
 transfer correlate characteristics between alcoholic and sober EEG signals w/ [DDSP](https://magenta.tensorflow.org/ddsp). Done for BME 512
 
